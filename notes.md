@@ -19,5 +19,10 @@ refer the pics in P10. since the shape is like a square so the optimal point has
 
 
 #### LARS (basically replace Lasso)
-http://statweb.stanford.edu/~tibs/ftp/lars.pdf
+A way to save time to choose right $\lambda$ in Lasso. Basically you only fit the data once and get a plot and choose the right $\lambda$                          
+http://statweb.stanford.edu/~tibs/ftp/lars.pdf                           
 http://www.cis.hut.fi/Opinnot/T-61.6040/presentations_s06/LARS.pdf
+
+
+#### k-means
+k-means algo is not fit for high r square situations.
